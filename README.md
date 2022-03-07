@@ -8,9 +8,9 @@
 ### About myself
 
 - 🔭&nbsp;&nbsp;I’m currently working on building blockchain applications, Smart Contracts and Dapps Application.
-- 🌱&nbsp;&nbsp;I’m currently learning **Solidity, Typescript, Python and Machine Learning **
+- 🌱&nbsp;&nbsp;I’m currently learning **Solidity, Typescript, Python and Machine Learning**
 
-- 🤝&nbsp;&nbsp;I’m looking for help with **Building Flash Loans **
+- 🤝&nbsp;&nbsp;I’m looking for help with **Building Flash Loans**
 
 - 💬&nbsp;&nbsp;Ask me about **Programming, Machine Learning, Solidity, Python, Blockchain and CryptoCurrencies**
 
