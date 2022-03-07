@@ -15,7 +15,7 @@
 
 - 💬&nbsp;&nbsp;Ask me about **Programming, Machine Learning, Solidity, Python, Blockchain and CryptoCurrencies**
 
-- 📫&nbsp;&nbsp;How to reach me **Twitter/Email** [here](https://twitter.com/_tecksky) [Email](piusisonline@gmail.com)
+- 📫&nbsp;&nbsp;How to reach me **Twitter/Email** [here](https://twitter.com/_tecksky)
 
 ### Tech stack
 
@@ -56,4 +56,35 @@
   <a href="https://medium.com/@cehgithugu" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
   </a>
+</p>
+
+
+## 🏆 GitHub Profile Trophy
+
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=githugutech&row=1" alt="Pius Githugu" />
+</p>
+
+## 🏆 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githugutech&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="Pius Githugu" />
+</p>
+
+## 🏆 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=githuguteck&show_icons=true&locale=en&show_icons=true&count_private=true&include_all_commits=true" alt="Pius Githugu" />
+</p>
+
+## 🏆 GitHub Streaks
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="sanchitbajaj02" />
+</p>
+
+## 🏆 Activity Graph
+
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
 </p>
