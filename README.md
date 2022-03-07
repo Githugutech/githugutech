@@ -65,11 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=githugutech&row=1" alt="Pius Githugu" />
 </p>
 
-## 🏆 Top Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githugutech&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="Pius Githugu" />
-</p>
 
 ## 🏆 GitHub Stats
 
