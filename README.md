@@ -66,12 +66,6 @@
 </p>
 
 
-## 🏆 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=githuguteck&show_icons=true&locale=en&show_icons=true&count_private=true&include_all_commits=true" alt="Pius Githugu" />
-</p>
-
 ## 🏆 GitHub Streaks
 
 <p align="left">
