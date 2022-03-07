@@ -1,3 +1,41 @@
+<h1 align="center"> Hi 👋, Pius Githugu </h1>
+<h3 align="center">A very passionate Blockchain and Machine Learning developer, from Kenya. </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="vadorequest" />
+</p>
+
+### About myself
+
+- 🔭&nbsp;&nbsp;I’m currently working on building blochchain Smart Contracts and Dapps Application.
+- 🌱&nbsp;&nbsp;I’m currently learning **Solidity, Typescript, Python and Machine Learning **
+
+- 🤝&nbsp;&nbsp;I’m looking for help with **Building Flash Loans **
+
+- 💬&nbsp;&nbsp;Ask me about **Programming, Machine Learning, Solidity, Python, Blockchain and CryptoCurrencies**
+
+- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** [here](https://twitter.com/_tecksky)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 < a href="https://github-readme-stats.vercel.app/api?username=GithuguTech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
