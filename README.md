@@ -4,6 +4,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=githugutech" alt="Pius Githugu" />
 </p>
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
+![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
 ### About myself
 
