@@ -2,7 +2,7 @@
 <h3 align="center">A very passionate Blockchain and Machine Learning developer, from Kenya. </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="vadorequest" />
+  <img src="https://komarev.com/ghpvc/?username=githugutech" alt="Piusrequest" />
 </p>
 
 ### About myself
