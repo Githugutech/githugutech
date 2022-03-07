@@ -18,33 +18,19 @@
 
 ### Tech stack
 
-> [Check out the tech stack we used at Unly (2019)](https://stackshare.io/unly/2019)
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+- Python
+  Machine Learning
 </p>
 
 ### Github statistics
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githugutech&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Piusrequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githugutech&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vadorequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### Social
@@ -55,7 +41,7 @@
   <a href="https://dev.to/vadorequest" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/vadorequest" target="blank">
+  <a href="https://twitter.com/_tecksky" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
