@@ -77,3 +77,14 @@
 <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=githugutech&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="Pius Githugu" />
 </p>
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Kenya</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
