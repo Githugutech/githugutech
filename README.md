@@ -80,11 +80,11 @@
 ## 🏆 GitHub Streaks
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="sanchitbajaj02" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githuguteck&&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="Pius Githugu" />
 </p>
 
 ## 🏆 Activity Graph
 
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=githuguteck&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="Pius Githugu" />
 </p>
