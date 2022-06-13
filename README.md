@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I am Pius Githugu </h1>
+<h1 align="center"> Hello!!! 👋, I am Pius Githugu </h1>
 <h3 align="center">A very passionate Blockchain and Machine Learning developer, from Kenya. </h3>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 - 🤝&nbsp;&nbsp;I’m looking for help with **Building Flash Loans**
 
-- 💬&nbsp;&nbsp;Ask me about **Programming, Machine Learning, Solidity, Python, Blockchain and CryptoCurrencies**
+- 💬&nbsp;&nbsp;Ask me about **Programming, Blockchain and CryptoCurrencies, Solidity, Machine Learning, and Python**
 
 - 📫&nbsp;&nbsp;How to reach me **Twitter/Email** [here](https://twitter.com/_tecksky)
 
@@ -21,10 +21,10 @@
 
 
 <p align="left">
-- Python.
-- Machine Learning.
 - BlockChain Development.
 - Solidity
+- Python.
+- Machine Learning.
 </p>
 
 ### Github statistics
